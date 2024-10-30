@@ -12,7 +12,7 @@
 - Role: Supervisor
 - Email: anthony-graham.bellotti@nottingham.edu.cn
 
-#### Dongdong Li
+### Dongdong Li
 - Role: Team Leader
 - Email: scydl3@nottingham.edu.cn
 
