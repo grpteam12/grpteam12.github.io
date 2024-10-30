@@ -30,3 +30,11 @@
 ### Experiences
 - Use AI model for classification, segmentation
 - Participated in a research project
+
+## Chenhui Wang
+
+### Skills
+- Programming: C, Java, Haskell, Python, JavaScript
+  
+### Experiences:
+- Have contact with front-end development experience, more familiar with front-end development
