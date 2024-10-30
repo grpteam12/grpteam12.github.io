@@ -5,5 +5,16 @@
 - Game Engine and Modeling : Unity, Unreal Engine 5, Blender
 
 ### Experiences
-- had involved in the development of the game scene, as well as the VR rhythm game development, with potential resources in VR game development.
+- Had involved in the development of the game scene, as well as the VR rhythm game development, with potential resources in VR game development.
 - Participated in a research project related to Computer Vision (CV) and Natural Language Processing (NLP), preparing to publish a paper.
+
+
+## Yingcong Wei
+
+### Skills
+- Programming : C, Java, Haskell, Python, JavaScript
+- Game Engine and Modeling : Unreal Engine 5, Blender
+
+### Experiences
+- Participated in development projects using unity as a tool and mathematical linear algebra model making.
+- Participated in preparation of work reports as an intern and learned the knowledge of graduate thesis.
