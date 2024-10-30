@@ -1,7 +1,8 @@
 # Home
 
-## Project Name
-## **Rank-ordering System Project**
+## Project Name： **Rank-ordering System Project**
+
+## Team 12:
 
 ### Dave Towey
 - Role: Module Convenor
