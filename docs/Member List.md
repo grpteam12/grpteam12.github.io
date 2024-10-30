@@ -25,7 +25,7 @@
 ### Skills
 - Programming : C/C++, Java, Haskell, Python, Pytorch
 - Computer Vision : Object Detection, Image Segmentation
-- achine Learning : Deep Learning, Neural Networks, CNN, PoseCNN, Pointnet
+- Machine Learning : Deep Learning, Neural Networks, CNN, PoseCNN, Pointnet
 
 ### Experiences
 - Use AI model for classification, segmentation
