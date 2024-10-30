@@ -31,6 +31,14 @@
 - Use AI model for classification, segmentation
 - Participated in a research project
 
+## Yang Wu
+
+### Skills
+- Programming : C, Java, Haskell, Python, JavaScript,Vue,Go
+
+### Experiences
+- Worked as an intern in a cloud computing company, responsible for front-end function maintenance and expansion. 
+
 ## Chenhui Wang
 
 ### Skills
