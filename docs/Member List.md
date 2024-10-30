@@ -18,3 +18,15 @@
 ### Experiences
 - Participated in development projects using unity as a tool and mathematical linear algebra model making.
 - Participated in preparation of work reports as an intern and learned the knowledge of graduate thesis.
+
+
+## Jiacheng Xu
+
+### Skills
+- Programming : C/C++, Java, Haskell, Python, Pytorch
+- Computer Vision : Object Detection, Image Segmentation
+- achine Learning : Deep Learning, Neural Networks, CNN, PoseCNN, Pointnet
+
+### Experiences
+- Use AI model for classification, segmentation
+- Participated in a research project
