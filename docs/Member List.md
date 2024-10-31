@@ -46,3 +46,18 @@
   
 ### Experiences:
 - Have contact with front-end development experience, more familiar with front-end development
+
+
+## Xingyu Pan
+
+### 🛠 Skills
+- **Programming**:  
+  C, Python (my best pal), PyTorch, TensorFlow, OpenCV, YOLO (the model, not the lifestyle!)
+- **Computer Vision**:  
+  Object Detection (I see you 👀), Image Segmentation, Small Object Detection (yes, even tiny things matter!)
+
+### 🧳 Experiences
+- **Intern at Machine Vision Company**  
+  Spent hours staring at surveillance video feeds, working on real-time object detection. Yes, my eyes still work!
+- **YOLO Master**  
+  Applied deep learning models (YOLO) to boost detection accuracy in challenging environments. Picture me saying, “No, I don’t mean *that* YOLO!”
